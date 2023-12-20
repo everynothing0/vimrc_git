@@ -42,8 +42,8 @@ syntax on
  " Set tab width to 4 columns.
  set tabstop=4
 
- " Use space characters instead of tabs.
- set expandtab
+ " Use space characters instead of tabs. Unseless for school 42
+" set expandtab  
 
  " Do not save backup files.
  set nobackup

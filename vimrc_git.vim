@@ -91,3 +91,5 @@ syntax on
  " Wildmenu will ignore files with these extensions.
  set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
+ " colorscheme
+ colorscheme habamax

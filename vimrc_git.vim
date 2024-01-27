@@ -4,6 +4,7 @@ set wildmenu
 set ruler
 set smartcase
 set incsearch
+set rnu
 
 set backspace=eol,start,indent
 set whichwrap+=<,>,h,l
